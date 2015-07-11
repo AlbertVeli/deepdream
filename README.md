@@ -1,3 +1,9 @@
+This is my clone of the google deepdream repository. I added albert.py and frames2mov.sh. Otherwise it is unchanged.
+
+albert.py contains mainly code from dream.ipynb. I translated it to regular python and played around with it a bit. It generates frames into the subdirectory frames and the frames2mov.sh script combines the frames into a video using avconv.
+
+Below is the original readme.
+
 # deepdream
 
 This repository contains IPython Notebook with sample code, complementing 
